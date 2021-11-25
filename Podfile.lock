@@ -1,0 +1,20 @@
+PODS:
+  - NendSDK_iOS (7.0.6)
+  - SwiftConfettiView (0.1.0)
+
+DEPENDENCIES:
+  - NendSDK_iOS
+  - SwiftConfettiView
+
+SPEC REPOS:
+  trunk:
+    - NendSDK_iOS
+    - SwiftConfettiView
+
+SPEC CHECKSUMS:
+  NendSDK_iOS: 43c45dad9195c8e814c2da6497fe3d66515fb982
+  SwiftConfettiView: 1bdbc2e6913b6b1c76d8070802b212508ad5c352
+
+PODFILE CHECKSUM: 8ffee085876b944e36df20d621d2f83f5f97555e
+
+COCOAPODS: 1.11.0
